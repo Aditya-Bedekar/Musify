@@ -1,0 +1,20 @@
+App {
+    padding: 10rem 1rem;
+   height: 50rem;
+    margin: auto;
+    font-family: "montserrat", sans-serif;
+    text-align: center;
+    background-color: #191414;
+    padding: 2rem;
+    
+  }
+  
+  .header {
+    font-family: "montserrat", sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #1db954;
+    padding: 3rem 1rem;
+    border-radius: 1rem;
+  }
+  
